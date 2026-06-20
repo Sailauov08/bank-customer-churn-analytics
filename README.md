@@ -10,6 +10,7 @@ The project is split into 4 production-standard phases to maintain a clean workf
 4. `4_machine_learning.ipynb` — Trains a `RandomForestClassifier` model optimized with class balancing to predict future customer churn.
 
 ## 📈 Key Business Insights
+![Bank Churn Analysis Chart](bank_churn_chart.png)
 * The number of bank products (`num_products`) held by a customer has a direct impact on their likelihood to leave the bank.
 * Customers with 4 products are in the highest risk zone, showing an absolute churn rate.
 
